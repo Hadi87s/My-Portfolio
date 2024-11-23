@@ -4,10 +4,7 @@ Welcome to the GitHub repository for my personal portfolio website! This site sh
 
 ![Portfolio Preview](portfolioMainPage.png) <!-- Optional: Add a screenshot of the website -->
 
-## Table of Contents
-- [About the Project](#about-the-project)
-- [Features](#features)
-- [Technologies Used](#technologies-used)
+[Visit The Website](https://hadiirshaid.netlify.app/)
 
 ## About the Project
 
