@@ -8,9 +8,6 @@ Welcome to the GitHub repository for my personal portfolio website! This site sh
 - [About the Project](#about-the-project)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
-- [Getting Started](#getting-started)
-- [Usage](#usage)
-- [Contact](#contact)
 
 ## About the Project
 
